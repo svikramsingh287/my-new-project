@@ -4,5 +4,25 @@
     "express": "^4.18.1",
     "html": "^1.0.0",
     "nodemon": "^2.0.16"
-  }
+  },
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svikramsingh287/my-new-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svikramsingh287/my-new-project/issues"
+  },
+  "homepage": "https://github.com/svikramsingh287/my-new-project#readme",
+  "description": ""
 }
